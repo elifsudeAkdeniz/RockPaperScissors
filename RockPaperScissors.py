@@ -105,32 +105,3 @@ while True:
 
     users_score = 0
     computers_score = 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
